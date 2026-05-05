@@ -1,4 +1,4 @@
-This repository contains 3 Python projects completed as part of the CodeAlpha Internship. Each project demonstrates core Python concepts such as loops, conditionals, file handling, and user interaction.
+This repository contains 3 Python projects completed as part of the @CodeAlpha Internship. Each project demonstrates core Python concepts such as loops, conditionals, file handling, and user interaction.
 
 _Projects Included
 
