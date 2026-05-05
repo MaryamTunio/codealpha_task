@@ -9,11 +9,9 @@ _Projects Included
  Description
 A simple rule-based chatbot that responds to user inputs using predefined answers.
 
-### Features
-- Interactive conversation
-- Predefined responses
-- Exit command (`bye`)
-- Uses loops and conditionals
+ Features
+ Interactive conversation
+ Predefined responses
 
 **Hangman Game
 Description
